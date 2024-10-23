@@ -1,0 +1,14 @@
+C:\Users\Сергей\source\repos\Кр_1\Кр_1\bin\Debug\net8.0\Кр_1.exe
+C:\Users\Сергей\source\repos\Кр_1\Кр_1\bin\Debug\net8.0\Кр_1.deps.json
+C:\Users\Сергей\source\repos\Кр_1\Кр_1\bin\Debug\net8.0\Кр_1.runtimeconfig.json
+C:\Users\Сергей\source\repos\Кр_1\Кр_1\bin\Debug\net8.0\Кр_1.dll
+C:\Users\Сергей\source\repos\Кр_1\Кр_1\bin\Debug\net8.0\Кр_1.pdb
+C:\Users\Сергей\source\repos\Кр_1\Кр_1\obj\Debug\net8.0\Кр_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\source\repos\Кр_1\Кр_1\obj\Debug\net8.0\Кр_1.AssemblyInfoInputs.cache
+C:\Users\Сергей\source\repos\Кр_1\Кр_1\obj\Debug\net8.0\Кр_1.AssemblyInfo.cs
+C:\Users\Сергей\source\repos\Кр_1\Кр_1\obj\Debug\net8.0\Кр_1.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\source\repos\Кр_1\Кр_1\obj\Debug\net8.0\Кр_1.dll
+C:\Users\Сергей\source\repos\Кр_1\Кр_1\obj\Debug\net8.0\refint\Кр_1.dll
+C:\Users\Сергей\source\repos\Кр_1\Кр_1\obj\Debug\net8.0\Кр_1.pdb
+C:\Users\Сергей\source\repos\Кр_1\Кр_1\obj\Debug\net8.0\Кр_1.genruntimeconfig.cache
+C:\Users\Сергей\source\repos\Кр_1\Кр_1\obj\Debug\net8.0\ref\Кр_1.dll
